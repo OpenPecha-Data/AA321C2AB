@@ -1,0 +1,31 @@
+segment_sources:
+  P10B54200:
+    type: origin_type
+    relation: translation
+    language: en
+  PDCB8CAB0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  459678d6c75c49f58f085ebca5217d6d:
+    P10B54200: 68814246810d437a92b8ae1c799bb273
+    PDCB8CAB0: 88765c622baf4ee0bc0035b7d537755f
+  6487417996694087aede03d4bad56973:
+    P10B54200: 6acb2a3591954cee9412d17d2f10c439
+    PDCB8CAB0: 34874317c3024a9083aaa0bb0126b4fb
+  61328b06ab1e4d13a0b0164e73135524:
+    P10B54200: e0b0a31d1e484330bd3c7283b414e7a2
+    PDCB8CAB0: 25ea8a8082b64bd8b2e9e66ea31f9501
+  3be8bceb765141b185e34f6a3412d145:
+    P10B54200: 50cede2af38941f9ba8bb9964e7aea63
+    PDCB8CAB0: 14997602c7b74be2a9a4e7be5ad71be9
+  0b26af2c53f94009af641a1804937ccf:
+    P10B54200: 14cb39256fce44028cc19bde5a72889a
+    PDCB8CAB0: 6fd301b0eef7482e96ecf99421a5ee8d
+  24b4542d76ef4a04a7acdaf2f2e53c76:
+    P10B54200: 516b8d8e15d440c7b8fc21831cc1c15f
+    PDCB8CAB0: c8101c6aae564ebaabcaf1db5074b647
+  8b580f70dc6746c6b9b9e6f7f6fae2c9:
+    P10B54200: 3bc527fd8d0046959643fea8ad4c3d20
+    PDCB8CAB0: 7809756aeee543dfbba33a3512b594f2
